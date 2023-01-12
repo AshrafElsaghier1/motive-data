@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Porshe 718 Cayman S",
       "price": 400,
-      "imgUrl": "./assets/imgs/products/car-1.png",
+      "imgUrl": "../../assets/imgs/products/car-1.png",
       "type": "Coupe",
       "transmission": "manual",
       "customers": 4
