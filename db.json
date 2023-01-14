@@ -15,7 +15,7 @@
       "price": 500,
       "imgUrl": "/assets/imgs/products/car-2.png",
       "type": "Coupe",
-      "transmission": "automatic",
+      "transmission": "auto",
       "customers": 2
     },
     {
@@ -24,7 +24,7 @@
       "price": 450,
       "imgUrl": "/assets/imgs/products/car-3.png",
       "type": "Coupe",
-      "transmission": "automatic",
+      "transmission": "auto",
       "customers": 3
     },
     {
@@ -42,7 +42,7 @@
       "price": 600,
       "imgUrl": "/assets/imgs/products/car-5.png",
       "type": "Coupe",
-      "transmission": "automatic",
+      "transmission": "auto",
       "customers": 6
     },
     {
@@ -51,7 +51,7 @@
       "price": 400,
       "imgUrl": "/assets/imgs/products/car-6.png",
       "type": "Coupe",
-      "transmission": "automatic",
+      "transmission": "auto",
       "customers": 3
     },
     {
@@ -69,7 +69,7 @@
       "price": 200,
       "imgUrl": "/assets/imgs/products/car-8.png",
       "type": "Coupe",
-      "transmission": "automatic",
+      "transmission": "auto",
       "customers": 1
     },
     {
