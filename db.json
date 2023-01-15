@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Porshe 718 Cayman S",
       "price": 400,
-      "imgUrl": "@assets/imgs/products/car-1.png",
+      "imgUrl": "./assets/imgs/products/car-1.png",
       "type": "Coupe",
       "transmission": "manual",
       "customers": 4
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "Porshe Taycan",
       "price": 500,
-      "imgUrl": "@assets/imgs/products/car-2.png",
+      "imgUrl": "./assets/imgs/products/car-2.png",
       "type": "Coupe",
       "transmission": "auto",
       "customers": 2
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "Panamera",
       "price": 450,
-      "imgUrl": "@assets/imgs/products/car-3.png",
+      "imgUrl": "./assets/imgs/products/car-3.png",
       "type": "Coupe",
       "transmission": "auto",
       "customers": 3
